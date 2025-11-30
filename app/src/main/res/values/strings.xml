@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">37APractice</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_login_page">LoginPage</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_dashboard2">DashboardActivity2</string>
 </resources>
